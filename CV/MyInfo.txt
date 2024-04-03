@@ -4,3 +4,4 @@ Date de Naissance
 Adresse e-mail
 Adresse postale
 Numéro de téléphone
+Listes de hobbies : 1, 2, 3, 4, 5
