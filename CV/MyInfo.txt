@@ -1,0 +1,6 @@
+Nom
+Prénom
+Date de Naissance
+Adresse e-mail
+Adresse postale
+Numéro de téléphone

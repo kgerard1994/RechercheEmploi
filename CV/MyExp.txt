@@ -1,0 +1,4 @@
+Intitulé du job
+Nom de l'entreprise
+Année de début
+Année de fin de contrat
